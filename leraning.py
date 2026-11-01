@@ -2,7 +2,7 @@ print("Hello World!")
 print("Welcome to Python programming!")
 
 name = "Farii"
-age = 23
+age = 24
 
 print("My name is", name)
 
