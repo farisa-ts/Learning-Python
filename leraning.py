@@ -1,7 +1,7 @@
 print("Hello World!")
 print("Welcome to Python programming!")
 
-name = "Fari"
+name = "Farii"
 age = 20
 
 print("My name is", name)
